@@ -11,8 +11,8 @@
     <groupId>com.example</groupId>
     <artifactId>appAziendale</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>bankApp</name>
-    <description>Progetto per un&apos;app di gestione di conti bancari</description>
+    <name>appAziendale</name>
+    <description>Progetto per un' app aziendale</description>
     <url/>
     <licenses>
         <license/>

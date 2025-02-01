@@ -148,7 +148,6 @@ public class TimbriService {
 
     public Object fine(Long idUtente) throws MyEntityNotFoundException {
         Utente utente = utenteService.getById(idUtente);
-        System.out.println(utente);
         // Recupera il timbro dal database
         List<Timbri> timbri = timbriRepository.findByUtenteId(utente)
                 .stream()
